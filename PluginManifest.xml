@@ -14,7 +14,7 @@
     <Tags>wwise audio</Tags>
     <Properties>
         <!-- Is this plugin multi-user safe and properly checks claiming -->
-        <Property Name="MultiUser" Value="true"/>
+        <Property Name="MultiUser" Value="false"/>
         <!-- Can this plugin be used in single user projects -->
         <Property Name="SingleUser" Value="true"/>
     </Properties>

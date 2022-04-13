@@ -30,4 +30,8 @@
       </Compile>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="docs" />
+    </ItemGroup>
+
 </Project>
