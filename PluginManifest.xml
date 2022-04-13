@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<PluginManifest Type="MacroPlugin">
+    <Name>ScenarioWorld.ArticyWwisePlugin</Name>
+    <NameSignature>A4IBABJ2A6jM1LaWoNfAfe2O3RQTemRgIi0Y06jKACgUnmyDhnfWpzjhNLBof2uQtVd16xTY1CwAQyApuPWRqAz2EUOB5MjvCvm637cSoGe/Awd/5e8139SjrwHiQaG6GKmknLKnde2DmK6QNIf89OODnIssFgL8/qk7b317oTk2/m1myYxlA4/GULyiv4SloAWKOs58cAKfbwZSuvON3Zixygw1/0x9DavHbnC2snN0d2ffcmqNVXzNd1rBl0NlBlOerbUeDEA29/vg+qJnqH87JNQi8+jxBYyzY7Z+PPl6CUGmE1Ck/YOb33GM/bNJoELpVyDY4UnjXTorOhOwkf/RnI0=</NameSignature>
+    <FileSignature>A4IBADx1worbbE4nbi1hdLECZ/ECpE8YPlDw38m8PEn0MFpW43JvsDzqdSdWcVwqSpZTL2kVoPi/LDtn4vPr/Kif6ccPYWeF2FpqSQcwQfzzPQ4tPv0KWud8tQBs3UnUlrcSmK27JQM14kE8Qz1qMU0KN89FykpPtW8ZCk7gSiFE0M9l0HPA3FNwg+fRMEaRv25QhcccibBi95dNVE8C9xs3F2fnnGWFWHZcfqOd1dN8ZEtSTHtX3ig08YTKyT2cArwU4wJyhfGK65bRgqqC/V4aEBS5kjLIsOqxVdnbmnu+4KKWOx5l7jxFsSV7H8BjyIQnze1wcTVmtENxLJpWrA3Ow/g=</FileSignature>
+    <ManifestSignature>A4IBAA284uZ0p1o0HU4hKJLxP6Cm28TW9HfbWMsKFsJxUjZx4xVF7IWlBbDqcdjqhaV39M21/+Q+p9K25R9vPhZmE21/DzkMBmSi1JAUV4fQvgTHqRHqIKYCvngrDcOlxXL2Slxug75E0Bk4VARdT+Aywg7jBqtOxB5/PPvoPgJ4m6Z3KFRCdn5QuXlel0bjECun40GeUtRPyaAxbzZRYbTrWmzPXFZ9zncJKYI06OpYaf0HGA0Sj4O+Hj/cA9tkF0D4EATRbElrRSeq++YJ+JEbXml19+VlKAQPKdO2JsIOTMcj5Jr3xjzTUbzSJCOqf/wxa6yKxxJi1spiNLxMfxWEYgk=</ManifestSignature>
+    <Title>Wwise Integration</Title>
+    <Version>1.0</Version>
+    <MinimumArticyVersion>3.0.1</MinimumArticyVersion>
+    <Developer>Scenario World</Developer>
+    <Description>Synchronizes entities with objects in a Wwise project</Description>
+    <ProjectUrl>TODO</ProjectUrl>
+    <IconFile>Resources\Icon.png</IconFile>
+    <Tags>wwise audio</Tags>
+    <Properties>
+        <!-- Is this plugin multi-user safe and properly checks claiming -->
+        <Property Name="MultiUser" Value="true"/>
+        <!-- Can this plugin be used in single user projects -->
+        <Property Name="SingleUser" Value="true"/>
+    </Properties>
+</PluginManifest>
